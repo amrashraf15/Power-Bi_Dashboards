@@ -124,6 +124,7 @@ These items drive a significant portion of revenue and should be prioritized in 
 ### Technical Tools
 - **Microsoft Excel**
 - **Pivot Tables & Pivot Charts**
+- **Power BI & DAX measure**
 - **Slicers**
 - **Data Cleaning & Transformation**
 
@@ -147,4 +148,5 @@ These items drive a significant portion of revenue and should be prioritized in 
 ## ✅ Conclusion
 
 This dashboard provides a **comprehensive snapshot** of pizza sales performance in 2015. With interactive filters and intuitive visualizations, it allows stakeholders to make informed decisions about inventory, promotions, and product focus.
+
 
