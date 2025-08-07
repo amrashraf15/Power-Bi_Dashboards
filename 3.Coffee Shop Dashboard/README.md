@@ -7,7 +7,7 @@ This interactive dashboard was built using **Power BI** and **DAX measures** to 
 It presents a detailed view of sales, order volume, best-selling products, and top-performing locations and categories, helping stakeholders make informed, data-driven decisions.
 
 ## DEMO
-https://github.com/user-attachments/assets/9c49c60d-6a32-441d-b300-918cf4428f65
+https://github.com/user-attachments/assets/245ec4e0-b545-4484-b4dc-b794115dc958
 
 ---
 
@@ -149,3 +149,4 @@ Bar chart displaying top-performing product categories:
 This dashboard demonstrates how **Power BI**, when combined with clean data, DAX measures, and effective visualization, can uncover valuable insights and drive strategic decisions for retail operations.
 
 It provides a **clear snapshot of performance**, top products, and revenue streams — enabling managers and stakeholders to act confidently on the data.
+
